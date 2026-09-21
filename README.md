@@ -236,4 +236,4 @@ Cube World is offered as a full free version, providing all features and updates
 Ready to embark on an epic adventure? **Download Cube World now and start your journey!**
 
 ---
-**Last updated:** 2026-09-20 21:23:58 UTC
+**Last updated:** 2026-09-21 00:04:22 UTC
